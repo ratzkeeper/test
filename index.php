@@ -5,4 +5,5 @@ var_dump($sum);
 
 return $sum;
 
+$sum[] =2;
 var_dump($sum+1);
